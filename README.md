@@ -3,5 +3,5 @@
 Models developed (and relative code)
 
 Random Forest: "FINAL_RF.ipynb"<br/>
-LSTM: "DATASET_GRANDE.ipynb"<br/>
-SVM: "SVR_EUKLID.ipynb"
+Long Short Term Memory: "DATASET_GRANDE.ipynb"<br/>
+Support Vector Machine: "SVR_EUKLID.ipynb"
