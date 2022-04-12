@@ -3,5 +3,5 @@
 Models developed (and relative code)
 
 Random Forest and ENSEMBLE: "RF_ENSEMBLE.ipynb"<br/>
-Long Short Term Memory: "Q1.ipynb"<br/>
+Long Short Term Memory: "Q1, There is a ipynb for every datasets"<br/>
 Support Vector Machine: "SVR_EUKLID.ipynb"
