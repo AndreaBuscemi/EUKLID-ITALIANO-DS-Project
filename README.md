@@ -4,4 +4,5 @@ Models developed (and relative code):
 
 Random Forest and ENSEMBLE: "RF_ENSEMBLE.ipynb"<br/>
 Long Short Term Memory: "Q1, There is a .ipynb for every datasets"<br/>
-Support Vector Machine: "SVR_EUKLID.ipynb"
+Support Vector Machine: "SVR_EUKLID.ipynb" <br/>
+Everything is well organized inside the folder named as the repository, the file in the main branch were kept in case anything went wrong.
